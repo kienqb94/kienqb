@@ -17,7 +17,8 @@
 [v258](https://tinyurl.com/facebook-v258)
 
 • Messenger
-[v229.1](https://tinyurl.com/Messenger229-by-kien)
+[v229.1](https://tinyurl.com/Messenger229-by-kien)|
+[v250](https://tinyurl.com/messenger-250-kn)
 
 • Mifit
 [4.0.11](https://tinyurl.com/Mifit-4-0-11-by-kien)
