@@ -29,8 +29,8 @@
 • NhacCuaTui
 [6.0.0](https://tinyurl.com/nct-by-kien)
 
-• Soudcloud
-[4.0.1](https://tinyurl.com/Soudcloud-401-kn)
+• Soundcloud
+[5.20.0](https://tinyurl.com/soundcloud-5200-kn)
 
 .......
 update
