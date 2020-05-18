@@ -37,3 +37,7 @@
 
 .......
 update
+
+# Link Download IPA
+
+[Link GGDrive](https://tinyurl.com/ipa-by-kiennguyen)
