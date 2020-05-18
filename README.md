@@ -32,5 +32,8 @@
 • Soundcloud
 [5.20.0](https://tinyurl.com/soundcloud-5200-kn)
 
+• Mixcloud
+[12.0](https://tinyurl.com/mixcloud-12)
+
 .......
 update
