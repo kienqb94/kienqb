@@ -35,6 +35,8 @@
 • Mixcloud
 [12.0](https://tinyurl.com/mixcloud-12)
 
+• Lightning Sign
+[new](https://tinyurl.com/Lightning-sign-by-kien)
 .......
 update
 
